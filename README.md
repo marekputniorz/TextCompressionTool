@@ -1,5 +1,5 @@
 # TextCompressionTool
-Complex tool for text compression
+My semestral project
 
 ## How does the program work?
 Compression works by taking a sequence of the same characters in a row and replacing it with a pair containing the number of characters and the given character.
