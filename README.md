@@ -2,6 +2,7 @@
 Complex tool for text compression
 
 ## How does the program work?
+Compression works by taking a sequence of the same characters in a row and replacing it with a pair containing the number of characters and the given character.
 
 ### Compiling
 Compiling a program is very easy. Just type **cmake .** and then **make** in the command line and the program will be compiled.
