@@ -21,6 +21,8 @@ If the -b parameter is not specified, (de) compression will take place in text m
 
 #### Text compression
 ./zipper -i text.txt -o text.zip
+#### Text decompression
+./zipper -d -i text.txt -o text.zip
 #### Binary compression
 ./zipper -i text.txt -o text.zip -b
 #### Binary decompression
